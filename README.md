@@ -11,6 +11,7 @@ Clone project into a local folder.
 
 ```$shell 
 $ git clone https://github.com/GamalFahd/Interpreter-Backend.git .
+```
 
 ### GraalVM 
 GraalVM must be installed in order to be able to build the project. 
